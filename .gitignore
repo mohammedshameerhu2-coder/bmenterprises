@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.bat
+*.fish
+bm_app.cpython-*.pyc
+WHEEL
+activate
+activate.bat
+activate.fish
+deactivate.bat
